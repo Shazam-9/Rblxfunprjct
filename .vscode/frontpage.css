@@ -1,3 +1,16 @@
 body {
    background-image: url("../images/pinkbackground.jpg");
 }
+
+h1{
+   background-color: rgb(235, 14, 187);
+   color:aliceblue;
+   text-align: center;
+}
+div {
+   max-width: 25%;
+}
+
+/*
+Bunnylover_441 2jiselle happytwice777
+*/
